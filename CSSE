@@ -1,0 +1,10 @@
+dict={1:'java',2:'XML'}
+print(dict)
+dict[1]='python'
+print(dict)
+dict[3]='Ruby'
+print(dict)
+del dict[1]
+print[dict]
+print(dict.pop item())
+print(dict)
